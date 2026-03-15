@@ -24,7 +24,7 @@ Fine-tuning **Qwen2-VL-2B-Instruct** on **ChartQA** for visual question answerin
 | **Task** | Visual Question Answering on Charts |
 | **Fine-tuning** | LoRA (r=16, alpha=32) with 8-bit quantization |
 | **Hardware** | T4 GPU (Kaggle) |
-| **HuggingFace Model** | 🔗 [YOUR_HF_USERNAME/qwen2vl-chartqa](https://huggingface.co/YOUR_HF_USERNAME/qwen2vl-chartqa) |
+| **HuggingFace Model** | 🔗 [Devildarker6789/qwen2vl-chartqa](https://huggingface.co/YOUR_HF_USERNAME/qwen2vl-chartqa) |
 
 ---
 
